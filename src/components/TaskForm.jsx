@@ -1,5 +1,5 @@
 import Tag from "./Tag";
-import "./Taskform.css";
+import "./TaskForm.css";
 import { useState } from "react";
 
 const TaskForm = ({ setTasks }) => {
